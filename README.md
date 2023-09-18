@@ -17,22 +17,24 @@ Before you can run this project, make sure you have the following installed:
 
 
 # Clone the repository to your local machine
+```bash
 git clone <repository-url>
-
+```
 # Navigate to the project directory
+```bash
 cd hospital-management-system
-
+```
 # Install the required dependencies
+```bash
 npm install
-
+```
 
 ## Usage
 To start the server and use the Hospital Management System, run the following command:
 
-bash
-Copy code
+```bash
 node app.js
-
+```
 
 
 
