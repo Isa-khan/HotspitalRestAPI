@@ -15,26 +15,26 @@ Before you can run this project, make sure you have the following installed:
 
 ## Installation
 
-1. Clone the repository to your local machine:
+```bash
+# Clone the repository to your local machine
+git clone <repository-url>
 
-   ```bash
-   git clone <repository-url>
-
-
-
-   ```bash
+# Navigate to the project directory
 cd hospital-management-system
 
-   ```bash
+# Install the required dependencies
 npm install
 
-Usage
+
+**## Usage**
 To start the server and use the Hospital Management System, run the following command:
 
-   ```bash
+bash
+Copy code
 node app.js
 
-The server will listen on port 3000 by default. You can access the API endpoints using a tool like Postman or by making HTTP requests in your preferred programming language.
+
+
 
 API Endpoints
 Get Patient's Medical Records
@@ -45,4 +45,4 @@ ssn (Social Security Number) - The patient's SSN.
 firstname - The patient's first name.
 lastname - The patient's last name.
 Request Body: None
-Response: Returns the css
+Response: Returns the patient's medical records.
