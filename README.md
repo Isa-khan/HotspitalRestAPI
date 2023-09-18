@@ -15,7 +15,7 @@ Before you can run this project, make sure you have the following installed:
 
 ## Installation
 
-```bash
+
 # Clone the repository to your local machine
 git clone <repository-url>
 
@@ -26,7 +26,7 @@ cd hospital-management-system
 npm install
 
 
-**## Usage**
+## Usage
 To start the server and use the Hospital Management System, run the following command:
 
 bash
