@@ -22,12 +22,16 @@ Before you can run this project, make sure you have the following installed:
 
 
 
+   ```bash
 cd hospital-management-system
 
+   ```bash
 npm install
 
 Usage
 To start the server and use the Hospital Management System, run the following command:
+
+   ```bash
 node app.js
 
 The server will listen on port 3000 by default. You can access the API endpoints using a tool like Postman or by making HTTP requests in your preferred programming language.
